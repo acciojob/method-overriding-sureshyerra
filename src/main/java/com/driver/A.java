@@ -3,6 +3,6 @@ package com.driver;
 public class A {
 
     public String meth (){
-        return "";
+        return "Invoking method from class A";
     }
 }
